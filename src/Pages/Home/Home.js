@@ -1,9 +1,10 @@
 import React from 'react';
+import Tusks from './Tusks';
 
 const Home = () => {
     return (
         <div>
-            home
+            <Tusks></Tusks>
         </div>
     );
 };
